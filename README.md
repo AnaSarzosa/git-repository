@@ -98,7 +98,7 @@ Please take a look at the [contributing guidelines](./CONTRIBUTING.md) for a det
 
 ## Backers [![Backers on Open Collective](https://opencollective.com/git-point/backers/badge.svg)](#backers)
 
-Thank you to all our backers! ?? [[Become a backer](https://opencollective.com/git-point#backer)]
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/git-point#backer)]
 
 <a href="https://opencollective.com/git-point#backers" target="_blank"><img src="https://opencollective.com/git-point/backers.svg?width=890"></a>
 
